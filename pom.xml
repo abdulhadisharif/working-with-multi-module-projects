@@ -8,9 +8,9 @@
     <version>1.0</version>
     <developers>
         <developer>
-            <id><!-- YOUR ID --></id>
-            <name><!-- YOUR NAME --></name>
-            <email><!-- YOUR EMAIL ADDRESS --></email>
+            <id>abdulhadisharif</id>
+            <name>Sharif Abul Hadi</name>
+            <email>abdulhadisharif101@gmail.com</email>
 	    <organization>Faculty of Informatics, University of Debrecen</organization>
             <organizationUrl>https://www.inf.unideb.hu/</organizationUrl>
         </developer>
