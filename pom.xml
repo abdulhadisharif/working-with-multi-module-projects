@@ -6,6 +6,9 @@
     <groupId>hu.unideb.inf</groupId>
     <artifactId>sliding-puzzle</artifactId>
     <version>1.0</version>
+    <modules>
+        <module>sliding-puzzle-state</module>
+    </modules>
     <packaging>pom</packaging>
     <developers>
         <developer>
